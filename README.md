@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋,I'm Yifan.
 
-<!--
-**TianYifan-Vincent/TianYifan-Vincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/Python.
+- 😄 Read more about my blog: [here](TianYifan-Vincent.github.io)
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=TianYifan-Vincent&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You are my ![Visitor Count](https://profile-counter.glitch.me/TianYifan-Vincent/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+### My Skill Set
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianYifan-Vincent&layout=compact&theme=tokyonight)
+
+
